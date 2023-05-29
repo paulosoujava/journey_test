@@ -9,10 +9,10 @@ class JouneyTest extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: const Text('Journey'),
+          title: const Text('Journey compra facil'),
         ),
         body: const Center(
-          child: Text('Journey'),
+          child: Text('Jornada vinda squad compra facil\n mult - repo'),
         ));
   }
 }
